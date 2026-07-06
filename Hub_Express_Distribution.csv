@@ -1,0 +1,101 @@
+Customer ID,Category Product,Purchase Amount USD,Review Rating,Frequency of Purchase,Promo Code Active,Remise Appliquee,Previous Orders
+1000,Cooking Oil,52000,,Monthly,No,No,15
+1001,Premium Beer,122000,,Monthly,Yes,Yes,9
+1002,Soap,51000,,Weekly,Yes,Yes,0
+1003,Soap,35000,,Daily,No,No,4
+1004,Cooking Oil,61000,,Daily,Yes,Yes,4
+1005,Soap,142000,4,Weekly,No,No,0
+1006,Cooking Oil,127000,3,Daily,Yes,Yes,2
+1007,Cooking Oil,68000,3,Weekly,Yes,Yes,2
+1008,Cooking Oil,27000,1,Biweekly,Yes,Yes,17
+1009,Mineral Water,87000,1,Monthly,No,No,8
+1010,Premium Beer,66000,5,Monthly,No,No,16
+1011,Mineral Water,17000,5,Biweekly,Yes,Yes,7
+1012,Mineral Water,99000,3,Monthly,No,No,9
+1013,Cooking Oil,147000,4,Monthly,Yes,Yes,12
+1014,Cooking Oil,137000,5,Biweekly,Yes,Yes,12
+1015,Premium Beer,82000,3,Monthly,Yes,Yes,9
+1016,Premium Beer,78000,4,Monthly,No,No,7
+1017,Premium Beer,112000,4,Weekly,No,No,16
+1018,Soap,28000,5,Biweekly,Yes,Yes,8
+1019,Soap,96000,5,Biweekly,No,No,4
+1020,Premium Beer,44000,4,Monthly,Yes,Yes,17
+1021,Soap,106000,5,Biweekly,No,No,5
+1022,Soap,13000,2,Monthly,No,No,13
+1023,Cooking Oil,79000,1,Biweekly,Yes,Yes,15
+1024,Cooking Oil,70000,4,Daily,No,No,9
+1025,Mineral Water,34000,5,Daily,No,No,12
+1026,Soap,60000,2,Daily,Yes,Yes,17
+1027,Premium Beer,36000,5,Daily,Yes,Yes,16
+1028,Soap,103000,3,Biweekly,Yes,Yes,11
+1029,Premium Beer,33000,5,Monthly,Yes,Yes,6
+1030,Cooking Oil,30000,5,Monthly,No,No,8
+1031,Mineral Water,75000,1,Biweekly,No,No,15
+1032,Premium Beer,29000,5,Biweekly,Yes,Yes,18
+1033,Cooking Oil,119000,3,Daily,Yes,Yes,19
+1034,Cooking Oil,15000,3,Monthly,No,No,19
+1035,Premium Beer,126000,2,Weekly,Yes,Yes,15
+1036,Cooking Oil,133000,1,Weekly,Yes,Yes,1
+1037,Soap,111000,1,Monthly,Yes,Yes,2
+1038,Mineral Water,110000,3,Daily,Yes,Yes,8
+1039,Mineral Water,12000,2,Monthly,Yes,Yes,8
+1040,Premium Beer,111000,1,Weekly,No,No,11
+1041,Mineral Water,69000,5,Biweekly,Yes,Yes,12
+1042,Mineral Water,130000,5,Daily,No,No,5
+1043,Mineral Water,63000,5,Weekly,Yes,Yes,10
+1044,Soap,7000,2,Biweekly,Yes,Yes,3
+1045,Mineral Water,20000,4,Weekly,No,No,1
+1046,Cooking Oil,42000,4,Monthly,No,No,12
+1047,Mineral Water,21000,3,Daily,Yes,Yes,14
+1048,Cooking Oil,108000,4,Biweekly,Yes,Yes,18
+1049,Premium Beer,67000,2,Biweekly,No,No,3
+1050,Mineral Water,147000,3,Monthly,No,No,7
+1051,Premium Beer,57000,5,Weekly,No,No,20
+1052,Soap,116000,5,Monthly,Yes,Yes,13
+1053,Premium Beer,37000,5,Weekly,No,No,10
+1054,Premium Beer,100000,4,Monthly,Yes,Yes,14
+1055,Cooking Oil,22000,2,Daily,No,No,8
+1056,Mineral Water,145000,3,Weekly,Yes,Yes,19
+1057,Mineral Water,75000,2,Monthly,No,No,8
+1058,Soap,87000,1,Biweekly,No,No,8
+1059,Cooking Oil,43000,1,Weekly,Yes,Yes,20
+1060,Mineral Water,113000,5,Biweekly,No,No,16
+1061,Premium Beer,106000,1,Daily,No,No,9
+1062,Cooking Oil,11000,4,Daily,No,No,0
+1063,Mineral Water,113000,1,Weekly,Yes,Yes,5
+1064,Premium Beer,20000,4,Monthly,No,No,7
+1065,Cooking Oil,54000,4,Biweekly,No,No,1
+1066,Cooking Oil,100000,2,Monthly,No,No,1
+1067,Cooking Oil,109000,2,Monthly,No,No,11
+1068,Soap,13000,3,Biweekly,Yes,Yes,7
+1069,Premium Beer,123000,3,Biweekly,Yes,Yes,7
+1070,Cooking Oil,142000,3,Weekly,No,No,13
+1071,Mineral Water,123000,2,Daily,Yes,Yes,0
+1072,Cooking Oil,9000,3,Biweekly,No,No,6
+1073,Mineral Water,81000,4,Weekly,Yes,Yes,3
+1074,Cooking Oil,96000,2,Weekly,No,No,19
+1075,Premium Beer,95000,4,Monthly,Yes,Yes,1
+1076,Mineral Water,134000,5,Weekly,Yes,Yes,9
+1077,Soap,150000,4,Daily,No,No,0
+1078,Soap,112000,5,Weekly,No,No,12
+1079,Cooking Oil,148000,4,Monthly,No,No,20
+1080,Soap,117000,3,Biweekly,No,No,11
+1081,Premium Beer,67000,2,Biweekly,Yes,Yes,20
+1082,Cooking Oil,108000,4,Weekly,Yes,Yes,4
+1083,Mineral Water,14000,2,Biweekly,Yes,Yes,4
+1084,Soap,12000,2,Biweekly,No,No,19
+1085,Mineral Water,6000,5,Weekly,Yes,Yes,13
+1086,Cooking Oil,139000,2,Monthly,No,No,12
+1087,Mineral Water,120000,2,Biweekly,Yes,Yes,4
+1088,Premium Beer,54000,1,Daily,Yes,Yes,2
+1089,Mineral Water,147000,5,Biweekly,No,No,3
+1090,Soap,36000,1,Weekly,No,No,1
+1091,Mineral Water,26000,3,Daily,No,No,14
+1092,Mineral Water,16000,2,Monthly,No,No,16
+1093,Soap,59000,2,Daily,No,No,3
+1094,Soap,130000,2,Monthly,No,No,20
+1095,Premium Beer,110000,4,Weekly,No,No,6
+1096,Mineral Water,124000,3,Daily,No,No,6
+1097,Premium Beer,18000,4,Monthly,No,No,18
+1098,Premium Beer,10000,5,Monthly,Yes,Yes,2
+1099,Premium Beer,13000,2,Monthly,No,No,16
